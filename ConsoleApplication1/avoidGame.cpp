@@ -6,7 +6,7 @@
 
 #define WIDTH 20
 #define HEIGHT 10
-
+//±Í«„∫Í test
 void setup(char field[HEIGHT][WIDTH]) {
     for (int i = 0; i < HEIGHT; i++)
         for (int j = 0; j < WIDTH; j++)
